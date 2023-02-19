@@ -1,0 +1,8 @@
+name = "monokai-ristretto"
+version = "0.1.0"
+display-name = "Monokai Ristretto"
+author = "Du Cheng"
+description = "The Ristretto version of the Monokai theme"
+icon = "icon.png"
+repository = "https://github.com/du64/lapce-monokai-ristretto"
+color-themes = ["ristretto-colors.toml"]
